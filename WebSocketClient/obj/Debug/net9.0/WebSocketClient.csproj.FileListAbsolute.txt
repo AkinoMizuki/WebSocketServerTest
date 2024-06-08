@@ -1,0 +1,14 @@
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.AssemblyInfoInputs.cache
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.AssemblyInfo.cs
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.csproj.CoreCompileInputs.cache
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\bin\Debug\net9.0\WebSocketClient.exe
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\bin\Debug\net9.0\WebSocketClient.deps.json
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\bin\Debug\net9.0\WebSocketClient.runtimeconfig.json
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\bin\Debug\net9.0\WebSocketClient.dll
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\bin\Debug\net9.0\WebSocketClient.pdb
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.dll
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\refint\WebSocketClient.dll
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.pdb
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\WebSocketClient.genruntimeconfig.cache
+D:\03003_purogramu\C#\WebSocketServerTest\WebSocketClient\obj\Debug\net9.0\ref\WebSocketClient.dll

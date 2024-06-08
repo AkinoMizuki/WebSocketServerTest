@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0yAT/sXJrDua3H9MDdOdkLD7GmqR8Tm+eracsyD1yPo=",
+  "Source": "WebSocketServer",
+  "BasePath": "_content/WebSocketServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
